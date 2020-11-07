@@ -1,2 +1,2 @@
 GoStack - RocketSeat
-  first level react challenge.
+  first level react-native challenge.
